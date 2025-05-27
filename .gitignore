@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings folder
+.vscode/
+
+# Python cache
+*.pyo
+*.pyd
+
+# macOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Huggingface cache (optional: avoid uploading large model cache)
+# You can add this if you don't want to upload your local model cache
+.cache/
+.cache/huggingface/
+
+# PyCharm
+.idea/
+
+# Other system files
+Thumbs.db
